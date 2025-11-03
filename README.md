@@ -2,7 +2,7 @@
 
 This repository contains multiple proof-of-concept interactive forms using
  **Pydantic** for data validation, implemented in different UI frameworks:
- **Tkinter**, **MagicGUI + Qt**, **FastAPI**, and **Jupyter Notebook**
+ **Tkinter**, **MagicGui + Qt**, **FastUI**, and **Jupyter Notebook**
 
 ---
 ## Folder Overview
