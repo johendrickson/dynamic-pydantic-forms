@@ -21,7 +21,7 @@ This repository contains multiple proof-of-concept interactive forms using
 - **Purpose:** A Qt-based interactive form PoC using **MagicGUI**
 - **Features:**
   - Dynamically generate form from a Pydantic model
-  - Add multiple modality directories
+  - Add/delete multiple modality directories
   - Optional Dry Run and S3 Bucket fields
   - Validate and submit configuration
   - Output is read-only but selectable; can copy to clipboard
